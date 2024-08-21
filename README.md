@@ -1,2 +1,2 @@
 # Quantum
- Programming language
+ Programming language for Poland Technikum
